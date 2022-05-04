@@ -1,0 +1,59 @@
+_repo: Les-Gueules-Noires_67924
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Adam, Paul
+    alias: Adam, Paul Auguste Marie
+    birthdate: 1862
+    deathdate: 1920
+    gutenberg_agent_id: '6384'
+    url: http://www.gutenberg.org/2009/agents/6384
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Paul_Adam
+    - https://en.wikipedia.org/wiki/Paul_Adam_(French_novelist)
+  illustrator:
+    agent_name: Steinlen, Théophile Alexandre
+    aliases:
+    - Steinlen, Th. A. (Théophile Alexandre)
+    - Steinlen, A. Th. (Alexandre Théophile)
+    - Steinlen, Theophile Alexandre
+    - Petit-Pierre
+    - Steinlen, Alexandre Théophile
+    birthdate: 1859
+    deathdate: 1923
+    gutenberg_agent_id: '49375'
+    url: http://www.gutenberg.org/2009/agents/49375
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Th%C3%A9ophile_Alexandre_Steinlen
+    - https://en.wikipedia.org/wiki/Th%C3%A9ophile_Steinlen
+creator:
+  author:
+    agent_name: Morel, Emile
+    alias: Morel, Émile
+    birthdate: 1873
+    deathdate: 1919
+    gutenberg_agent_id: '54535'
+    url: http://www.gutenberg.org/2009/agents/54535
+    wikipedia: https://fr.wikipedia.org/wiki/%C3%89mile_Morel
+description: ''
+gutenberg_issued: '2022-04-25'
+identifiers:
+  gutenberg: '67924'
+language: fr
+pgterms:marc904: https://archive.org/details/lesgueulesnoire00more/page/n11/mode/2up
+pgterms:marc905: 20211012090727morel
+pgterms:marc906: '1907'
+pgterms:marc907: FR
+production_note: Claudine Corbasson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: France :E. Sansot & Cie,1907.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Miners -- Fiction'
+- GITenberg
+title: Les Gueules Noires
+url: http://www.gutenberg.org/ebooks/67924
