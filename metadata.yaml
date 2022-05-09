@@ -26,6 +26,9 @@ contributor:
     wikipedia:
     - https://fr.wikipedia.org/wiki/Th%C3%A9ophile_Alexandre_Steinlen
     - https://en.wikipedia.org/wiki/Th%C3%A9ophile_Steinlen
+covers:
+- cover_type: archival
+  image_path: 67924-h/images/cover.jpg
 creator:
   author:
     agent_name: Morel, Emile
@@ -36,6 +39,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54535
     wikipedia: https://fr.wikipedia.org/wiki/%C3%89mile_Morel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67924#Les-Gueules-Noires
 gutenberg_issued: '2022-04-25'
 identifiers:
   gutenberg: '67924'
